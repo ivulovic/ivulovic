@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 My name is Ivan, and I'm a full stack JavaScript developer. 
 
-I usually work with React and Node, but i love experimenting with other languages and learning new stuff. I consider sharing knowledge as a most productive and fun way to learn, so in case you want to work with me you can find me on [Twitter](https://twitter.com/vukily).
+I usually work with React and Node, but i love experimenting with other languages and learning new stuff. I consider sharing knowledge as a most productive and fun way to learn, so in case you want to work with me you can find me on [Twitter](https://twitter.com/reaktivan).
 
 Let's create something together and make the world more awesome!
